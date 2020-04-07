@@ -5,4 +5,4 @@
 
 ### Docente: Andrés Ferragut
 
-Material del curso de Análisis Predictivo de Series Temporales (Universidad ORT Uruguay, 2010)
+Material del curso de Análisis Predictivo de Series Temporales (Universidad ORT Uruguay, 2020)
