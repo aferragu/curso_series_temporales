@@ -5,4 +5,5 @@ dependencies:
   - r-tidyverse
   - r-astsa
   - r-irkernel
+  - r-forecast
   - rise
