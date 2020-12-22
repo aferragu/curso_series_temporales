@@ -4,3 +4,5 @@ dependencies:
   - r-base=4.0
   - r-tidyverse
   - r-astsa
+  - r-irkernel
+  - rise
