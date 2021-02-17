@@ -8,4 +8,5 @@ dependencies:
   - r-irkernel
   - r-mvtnorm
   - r-forecast
+  - r-xts
   - rise
