@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aferragu/curso_series_temporales/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aferragu/curso_series_temporales/master)
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/aferragu/curso_series_temporales/tree/master/)
 
 # Curso Análisis Predictivo de Series Temporales
