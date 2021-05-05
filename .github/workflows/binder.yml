@@ -10,5 +10,4 @@ jobs:
     steps:
       - uses: s-weigand/trigger-mybinder-build@v1
         with:
-          target-repo: aferragu/curso_series_temporales
-          targer-state: master
+          target-repo: aferragu/curso_series_temporales/master
