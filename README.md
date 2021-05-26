@@ -21,6 +21,6 @@ Material del curso de Análisis Predictivo de Series Temporales (Universidad ORT
  5. Modelos autorregresivos y autocorrelacion parcial.ipynb
  6. Modelos de media movil y ARMA.ipynb
  7. Prediccion en modelos ARMA, modelos ARIMA y resumen.ipynb
- 8. Prediccion usando la biblioteca forecast.ipynb
+ 8. Ejemplo completo de analisis y prediccion usando la biblioteca forecast.ipynb
  9. Modelos en espacio de estados - Modelo Lineal Dinamico.ipynb
  10. Modelos Markovianos escondidos.
