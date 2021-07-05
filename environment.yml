@@ -10,3 +10,4 @@ dependencies:
   - r-forecast
   - r-xts
   - rise
+  - r-keras
