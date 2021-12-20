@@ -9,6 +9,7 @@ dependencies:
   - r-mvtnorm
   - r-forecast
   - r-xts
+  - r-hiddenmarkov
   - rise
   - r-keras
   - tensorflow
