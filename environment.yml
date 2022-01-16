@@ -1,0 +1,15 @@
+name: series-temporales
+channels:
+  - conda-forge
+dependencies:
+  - r-base
+  - r-tidyverse
+  - r-astsa
+  - r-irkernel
+  - r-mvtnorm
+  - r-forecast
+  - r-xts
+  - r-hiddenmarkov
+  - rise
+  - r-keras
+  - tensorflow
