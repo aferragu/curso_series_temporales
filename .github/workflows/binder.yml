@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - master
+      - pythonRefactor
 
 jobs:
   trigger-binder-build:
