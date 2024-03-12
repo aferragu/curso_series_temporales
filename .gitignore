@@ -1,2 +1,4 @@
+.gitignore
 borradores
 .ipynb_checkpoints
+.virtual_documents
