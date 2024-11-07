@@ -1,0 +1,22 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Introduccion
+    chapters:
+    - file: "1- Introduccion/Introduccion.ipynb"
+    - file: "1- Introduccion/Analisis de Series Temporales. Modelos de series.ipynb"
+    - file: "1- Introduccion/Analisis de Series Temporales. Medidas de dependencia.ipynb"
+  - caption: Analisis Exploratorio de Series Temporales
+    chapters:
+    - file: "2- Analisis exploratorio/Analisis Exploratorio de Series Temporales - Parte 1.ipynb"
+    - file: "2- Analisis exploratorio/Analisis Exploratorio de Series Temporales - Parte 2.ipynb"
+    - file: "2- Analisis exploratorio/Analisis Exploratorio de Series Temporales - Parte 3.ipynb"
+  - caption: Modelos Autorregresivos y de Media Movil
+    chapters:
+    - file: "3- Modelos ARMA y ARIMA/Modelos autorregresivos y autocorrelacion parcial.ipynb"
+    - file: "3- Modelos ARMA y ARIMA/Modelos de media movil y ARMA.ipynb"
+    - file: "3- Modelos ARMA y ARIMA/Modelos ARMA generalizados y resumen.ipynb"
+
