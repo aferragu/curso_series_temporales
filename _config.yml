@@ -3,12 +3,13 @@
 
 title: Análisis Predictivo de Series Temporales
 author: Andres Ferragut
-logo: wiener.png
+logo: logo.png
+project: Analisis Predictivo de Series Temporales
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
-  execute_notebooks: force
+  execute_notebooks: cache
 
 # Define the name of the latex output file for PDF builds
 latex:
@@ -21,8 +22,8 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/executablebooks/jupyter-book  # Online location of your book
-  path_to_book: docs  # Optional path to your book, relative to the repository root
+  url: https://github.com/aferragu/curso_series_temporales  # Online location of your book
+  path_to_book: .  # Optional path to your book, relative to the repository root
   branch: master  # Which branch of the repository should be used when creating links (optional)
 
 # Add GitHub buttons to your book
@@ -30,3 +31,20 @@ repository:
 html:
   use_issues_button: false
   use_repository_button: false
+
+sphinx:
+  config:
+    html_theme: alabaster
+    html_theme_options:
+      description: "Notas de curso. Andrés Ferragut. Universidad ORT Uruguay"
+      project_name: "Analisis predictivo de series temporales"
+      page_width: 90%
+      github_button: true
+      github_repo: "https://github.com/aferragu/curso_series_temporales"
+      show_powered_by: false
+      head_font_family: Oswald
+      font_family: "PT Serif"
+      code_font_size: 10pt
+      show_relbars: true
+      
+only_build_toc_files: true

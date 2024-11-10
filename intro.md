@@ -1,11 +1,16 @@
-# Welcome to your Jupyter Book
+# Análisis Predictivo de Series Temporales
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+## Universidad ORT Uruguay. Facultad de Ingeniería
 
-Check out the content pages bundled with this sample book to see more.
+### Master en Big Data e Inteligencia Artificial
+
+### Docente: Andrés Ferragut
+
+Este curso tiene como objetivo proporcionar a los estudiantes las habilidades necesarias para analizar, modelar y pronosticar datos de series temporales. Los participantes aprenderán a utilizar técnicas estadísticas y herramientas de programación para manejar datos que son recopilados en intervalos secuenciales, como datos económicos, financieros, ambientales y otros.
+
+Se busca combinar teoría y práctica, mediante la utilización de ejemplos de series reales, analizados mediante código `python`.
+
+El contenido del curso es el siguiente:
 
 ```{tableofcontents}
 ```

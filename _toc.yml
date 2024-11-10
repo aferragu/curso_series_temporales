@@ -7,13 +7,14 @@ parts:
   - caption: Introduccion
     chapters:
     - file: "1- Introduccion/Introduccion.ipynb"
-    - file: "1- Introduccion/Analisis de Series Temporales. Modelos de series.ipynb"
-    - file: "1- Introduccion/Analisis de Series Temporales. Medidas de dependencia.ipynb"
+    - file: "1- Introduccion/Modelos de series.ipynb"
+    - file: "1- Introduccion/Medidas de dependencia.ipynb"
   - caption: Analisis Exploratorio de Series Temporales
     chapters:
-    - file: "2- Analisis exploratorio/Analisis Exploratorio de Series Temporales - Parte 1.ipynb"
-    - file: "2- Analisis exploratorio/Analisis Exploratorio de Series Temporales - Parte 2.ipynb"
-    - file: "2- Analisis exploratorio/Analisis Exploratorio de Series Temporales - Parte 3.ipynb"
+    - file: "2- Analisis exploratorio/Modelos lineales.ipynb"
+    - file: "2- Analisis exploratorio/Regresion entre series y con lag.ipynb"
+    - file: "2- Analisis exploratorio/Analisis espectral.ipynb"
+    - file: "2- Analisis exploratorio/Regresion no lineal.ipynb"
   - caption: Modelos Autorregresivos y de Media Movil
     chapters:
     - file: "3- Modelos ARMA y ARIMA/Modelos autorregresivos y autocorrelacion parcial.ipynb"
