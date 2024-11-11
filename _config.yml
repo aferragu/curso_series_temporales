@@ -9,7 +9,7 @@ project: Analisis Predictivo de Series Temporales
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
-  execute_notebooks: cache
+  execute_notebooks: false
 
 # Define the name of the latex output file for PDF builds
 latex:
@@ -37,7 +37,6 @@ sphinx:
     html_theme: alabaster
     html_theme_options:
       description: "Notas de curso. Andrés Ferragut. Universidad ORT Uruguay"
-      project_name: "Analisis predictivo de series temporales"
       page_width: 90%
       github_button: true
       github_repo: "https://github.com/aferragu/curso_series_temporales"
@@ -46,5 +45,6 @@ sphinx:
       font_family: "PT Serif"
       code_font_size: 10pt
       show_relbars: true
-      
+    language: es
+    copyright: '2020-2024, Andrés Ferragut'      
 only_build_toc_files: true

@@ -1,1 +1,16 @@
 /* This file intentionally left blank. */
+
+div.body {
+	max-width: 70%;
+}
+
+h1.logo {
+
+	font-family: Oswald, Helvetica;
+	font-weight: normal;
+}
+
+div.sphinxsidebar p.caption {
+	font-family: Oswald, Helvetica;
+	font-size: 11pt
+}
