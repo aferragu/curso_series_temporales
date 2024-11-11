@@ -30,21 +30,21 @@ repository:
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
   use_issues_button: false
-  use_repository_button: false
+  use_repository_button: true
 
 sphinx:
   config:
     html_theme: alabaster
     html_theme_options:
       description: "Notas de curso. Andrés Ferragut. Universidad ORT Uruguay"
-      page_width: 90%
+      page_width: 80%
+      body_max_width: none
       github_button: true
       github_repo: "https://github.com/aferragu/curso_series_temporales"
       show_powered_by: false
       head_font_family: Oswald
       font_family: "PT Serif"
       code_font_size: 10pt
-      show_relbars: true
     language: es
     copyright: '2020-2024, Andrés Ferragut'      
 only_build_toc_files: true
