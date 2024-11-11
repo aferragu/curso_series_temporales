@@ -20,4 +20,7 @@ parts:
     - file: "3- Modelos ARMA y ARIMA/Modelos autorregresivos y autocorrelacion parcial.ipynb"
     - file: "3- Modelos ARMA y ARIMA/Modelos de media movil y ARMA.ipynb"
     - file: "3- Modelos ARMA y ARIMA/Modelos ARMA generalizados y resumen.ipynb"
+  - caption: Modelos En Espacio de Estados
+    chapters:
+    - file: "4- Modelos de Espacio de Estados/Modelo lineal dinamico.ipynb"
 
