@@ -9,6 +9,6 @@ jobs:
   trigger-binder-build:
     runs-on: [ubuntu-latest]
     steps:
-      - uses: s-weigand/trigger-mybinder-build@v1
+      - uses: s-weigand/trigger-mybinder-build@v1.1.0
         with:
           target-repo: aferragu/curso_series_temporales/master
