@@ -8,5 +8,9 @@ h1.logo {
 
 div.sphinxsidebar p.caption {
 	font-family: Oswald, Helvetica;
-	font-size: 11pt
+	font-size: 16pt
+}
+
+div.sphinxsidebar {
+	font-size: 12px;
 }

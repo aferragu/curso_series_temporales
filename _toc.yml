@@ -23,4 +23,6 @@ parts:
   - caption: Modelos En Espacio de Estados
     chapters:
     - file: "4- Modelos de Espacio de Estados/Modelo lineal dinamico.ipynb"
-
+  - caption: Redes neuronales y series temporales
+    chapters:
+    - file: "5- Machine Learning y Time Series/Series temporales y Redes Neuronales.ipynb"
