@@ -10,3 +10,4 @@ numpy==2.1.2
 pandas==2.2.3
 scipy==1.14.1
 statsmodels==0.14.4
+rise==5.7.1
