@@ -5,14 +5,14 @@ channels:
 dependencies:
   - jupyter
   - jupyterlab_rise
+  - rise
   - keras
   - matplotlib
   - nbclassic
   - numpy
   - pandas
   - pip
-  - python=3.11
+  - python=3.12
   - scipy
   - statsmodels
   - tensorflow
-prefix: /home/andres/.miniconda/envs/apst
