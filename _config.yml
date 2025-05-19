@@ -48,3 +48,10 @@ sphinx:
     language: es
     copyright: '2020-2024, Andrés Ferragut'      
 only_build_toc_files: true
+parse:
+  myst_enable_extensions:
+    # don't forget to list any other extensions you want enabled,
+    # including those that are enabled by default!
+    - dollarmath
+    - smartquotes
+  myst_dmath_double_inline: true
